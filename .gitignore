@@ -1,0 +1,3 @@
+git rm -r --cached venv/
+git commit -m "Elimina venv del repositorio"
+git push
