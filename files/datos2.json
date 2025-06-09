@@ -1,0 +1,29 @@
+[
+    {
+        "nombre": "Juan Pérez",
+        "email": "juan@example.com",
+        "fecha_nacimiento": "1990-05-15",
+        "telefono": "555-1234"
+    },
+    {
+        "nombre": "María García",
+        "email": "maria@example.com",
+        "fecha_nacimiento": "1985-11-22"
+    },
+    {
+        "nombre": "Carlos López",
+        "email": "carlos@example.com",
+        "fecha_nacimiento": "1978-03-10",
+        "telefono": "555-5678"
+    },
+    {
+        "nombre": "",
+        "email": "inválido@example.com",
+        "fecha_nacimiento": "2000-01-01"
+    },
+    {
+        "nombre": "Ana Martínez",
+        "email": "juan@example.com",
+        "fecha_nacimiento": "1995-07-30"
+    }
+]

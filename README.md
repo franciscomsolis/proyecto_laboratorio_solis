@@ -1,0 +1,1 @@
+Este es el proyecto de laboratorio del informatorio 2025
